@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "ruslansolomkaadmin",
+    "MONGO_PASSWORD": "qwe1asd1qwe1asd1",
+    "MONGO_DB": "mealplan-database"
+  }
+}
